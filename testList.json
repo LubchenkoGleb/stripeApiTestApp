@@ -1,0 +1,38 @@
+{
+  "apiKey":"sk_test_rwibW7J5t7xUBjPscmLW2z5z",
+  "tasks": [
+    {
+      "type": "card",
+      "customerID": "cus_8fKAUz76EEbafj",
+      "cardNumber": "4012888888881881",
+      "exp_month": "11",
+      "exp_year": "17",
+      "cvc": "124",
+      "email": "",
+      "amount": "",
+      "currency": "usd"
+    },
+    {
+      "type": "customer",
+      "customerID": "",
+      "cardNumber": "",
+      "exp_month": "",
+      "exp_year": "",
+      "cvc": "",
+      "email": "testAccount2@gmail.com",
+      "amount": "",
+      "currency": ""
+    },
+    {
+      "type": "charge",
+      "customerID": "",
+      "cardNumber": "4012888888881881",
+      "exp_month": "12",
+      "exp_year": "17",
+      "cvc": "123",
+      "email": "",
+      "amount": "550",
+      "currency": "usd"
+    }
+  ]
+}
